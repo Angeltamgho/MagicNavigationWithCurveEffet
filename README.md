@@ -1,0 +1,2 @@
+# MagicNavigationWithCurveEffet
+Created with CodeSandbox
